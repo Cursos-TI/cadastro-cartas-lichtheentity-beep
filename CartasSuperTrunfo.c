@@ -104,3 +104,4 @@ printf("PIB: %.3f\n", PIB2);
 printf("NPT: %d\n", NPT2);
 
 
+  return 0;
